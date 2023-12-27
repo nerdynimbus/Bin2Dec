@@ -1,6 +1,6 @@
 # Bin2Dec
 
-Check out the [demo (coming soon)]()
+Check out the [demo]() (coming soon)
 
 Find the list of original at [App Ideas](https://github.com/florinpop17/app-ideas)
 
