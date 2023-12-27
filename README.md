@@ -2,7 +2,7 @@
 
 Check out the [demo]() (coming soon)
 
-Find the list of original at [App Ideas](https://github.com/florinpop17/app-ideas)
+Idea originally from [App Ideas](https://github.com/florinpop17/app-ideas)
 
 Binary is the number system all digital computers are based on.
 Therefore it's important for developers to understand binary, or base 2,
