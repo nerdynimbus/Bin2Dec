@@ -1,0 +1,80 @@
+/*#e7fc5f - green like color*/
+/*#ffffff - white*/
+/*colors of black - lightest to darkest*/
+/*#272727*/
+/*#141414*/
+/*#000000*/
+/*https://dribbble.com/shots/23309692-Givehub-Mobile-App-UI-Components?utm_source=Clipboard_Shot&utm_campaign=orbixstudioux&utm_content=Givehub%20Mobile%20App%20UI%20Components%20%F0%9F%9A%80&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=orbixstudioux&utm_content=Givehub%20Mobile%20App%20UI%20Components%20%F0%9F%9A%80&utm_medium=Social_Share*/
+/*:root {*/
+/*  --color-primary: #e7fc5f;*/
+/*  --color-white: #fff;*/
+/*  --color-dark: #141414;*/
+/*  --color-dark-variant: #272727;*/
+/*  --color-background: #000000;*/
+
+  /*--card-border-radius: 2rem;*/
+  /*--border-radius-1: 0.4rem;*/
+  /*--border-radius-2: 1.2rem;*/
+
+  /*--card-padding: 1.8rem;*/
+  /*--padding-1: 1.2rem;*/
+
+  /*--box-shadow: 0 2rem 3rem var(--color-light);*/
+/*}*/
+
+/*.dark-mode-variables {*/
+/*  --color-background: #181a1e;*/
+/*  --color-white: #202528;*/
+/*  --color-dark: #edeffd;*/
+/*  --color-dark-variant: #a3bdcc;*/
+/*  --color-light: rgba(0, 0, 0, 0.4);*/
+/*  --box-shadow: 0 2rem 3rem var(--color-light);*/
+/*}*/
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:200,400,600,800&display=swap');
+
+:root{
+  --color-primary: #5246f6;
+  --color-danger: #ee6a57;
+  --color-success: #88e8a6;
+  --color-warning: #f9ea6c;
+  --color-white: #fff;
+  --color-info-dark: #525252;
+  --color-dark: #171717;
+  --color-light: #e5e5e5;
+  --color-dark-variant: #525252;
+  --color-background: #171717;
+
+  --card-border-radius: 2rem;
+  --border-radius-1: 0.4rem;
+  --border-radius-2: 1.2rem;
+
+  --card-padding: 1.8rem;
+  --padding-1: 1.2rem;
+
+  --box-shadow: 0 2rem 3rem var(--color-light);
+}
+
+.dark-mode-variables{
+  /*--color-background: #181a1e;*/
+  /*--color-white: #202528;*/
+  /*--color-dark: #edeffd;*/
+  /*--color-dark-variant: #a3bdcc;*/
+  /*--color-light: rgba(0, 0, 0, 0.4);*/
+  /*--box-shadow: 0 2rem 3rem var(--color-light);*/
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  appearance: none;
+  border: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-light);
+  font-family: 'Work Sans', sans-serif;
+}
